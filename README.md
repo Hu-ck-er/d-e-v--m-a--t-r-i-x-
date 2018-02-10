@@ -10,7 +10,7 @@
 
 • افتح ترمنال وحط 
 
-git clone https://github.com/Hu-cker/d-e-v-m-a-t-r-i-x-
+git clone https://github.com/Hu-cker/d-e-v-m-a-t-r-i-x-.get
 
 • انتر وراه حط •
 
